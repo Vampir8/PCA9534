@@ -11,7 +11,7 @@
  */
 
 // This will load the definition for common Particle variable types
-#include "arduino.h"
+#include "Arduino.h"
 
 #define PCA9534_I2C_ADDRESS     0x20
 #define PCA9534_IP_REGISTER     0x00
